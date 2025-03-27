@@ -11,7 +11,7 @@ A minimal yet vibrant **Ghostty** terminal theme inspired by the **Vesper** VSCo
 > - **Accent Colors:** Orange (`#ffc799`), Aqua (`#99ffe4`)
 
 
-![Vesper Theme Preview](https://your-image-link.com) *(Replace with your own screenshot)*
+![Vesper Theme Preview]([https://your-image-link.com](https://raw.githubusercontent.com/beingfranklin/vesper-ghostty/refs/heads/main/Screenshot.png)) 
 
 ## 📥 Installation
 
